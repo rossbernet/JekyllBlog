@@ -1,12 +1,12 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: A ross blog
+email: rossbernet@gmail.com
 description: >
-  A guide to getting started with Jekyll.
+  A blog about and by and for ross
 baseurl: ""
 url: "http://localhost:4000"
-twitter_username: taniarascia
-github_username:  taniarascia
+twitter_username: rossbernet
+github_username:  rosszb
 # Build Settings
 sass:
   sass_dir: _sass
